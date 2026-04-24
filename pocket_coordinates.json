@@ -1,0 +1,62 @@
+{
+  "ANDR_HUMAN": {
+    "center_x": 26.78,
+    "center_y": 2.36,
+    "center_z": 4.61,
+    "size_x": 22,
+    "size_y": 22,
+    "size_z": 22,
+    "validation_method": "Native ligand (Testosterone, CID:6013)",
+    "validation_score_kcal_mol": -6.30,
+    "plddt_threshold": 70,
+    "residues_retained": 352,
+    "cavity_volume_A3": 289.44,
+    "binding_domain": "Ligand Binding Domain (LBD)",
+    "key_residues": ["SER909", "PRO905", "SER901", "PHE879", "PRO14", "TYR11"]
+  },
+  "ESR1_HUMAN": {
+    "center_x": -12.83,
+    "center_y": 11.25,
+    "center_z": -8.94,
+    "size_x": 22,
+    "size_y": 22,
+    "size_z": 22,
+    "validation_method": "Crystal structure superposition (PDB: 1GWR, EST ligand, RMSD=0.418 A)",
+    "validation_score_kcal_mol": -8.16,
+    "plddt_threshold": 70,
+    "residues_retained": 328,
+    "cavity_volume_A3": 434.59,
+    "binding_domain": "Ligand Binding Domain (LBD)",
+    "key_residues": ["ARG394", "HIS524", "GLU353", "LEU387", "MET421", "PHE404", "LEU525", "ILE424"]
+  },
+  "HIF1A_HUMAN": {
+    "center_x": -3.00,
+    "center_y": -11.00,
+    "center_z": -11.00,
+    "size_x": 22,
+    "size_y": 22,
+    "size_z": 22,
+    "validation_method": "CB-Dock2 + native ligand re-docking (1,4-DPCA, CID:459803)",
+    "validation_score_kcal_mol": -6.21,
+    "plddt_threshold": 70,
+    "residues_retained": 355,
+    "cavity_volume_A3": 128.74,
+    "binding_domain": "PAS-B Domain",
+    "key_residues": ["TYR565", "PHE540", "THR327", "TYR325", "ILE324", "SER231", "HIS229"]
+  },
+  "NFKB1_HUMAN": {
+    "center_x": -1.96,
+    "center_y": 14.65,
+    "center_z": -30.24,
+    "size_x": 22,
+    "size_y": 22,
+    "size_z": 22,
+    "validation_method": "CB-Dock2 + crystal structure superposition (PDB: 8TQD, JMR ligand, RMSD=0.757 A)",
+    "validation_score_kcal_mol": -4.42,
+    "plddt_threshold": 70,
+    "residues_retained": 696,
+    "cavity_volume_A3": 511.92,
+    "binding_domain": "Rel Homology Domain (RHD) / DNA Binding Domain",
+    "key_residues": ["GLU761", "TRP760", "ASP757", "LYS243", "THR145", "GLU62", "CYS61", "TYR59"]
+  }
+}
