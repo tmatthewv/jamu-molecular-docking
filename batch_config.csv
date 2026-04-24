@@ -1,0 +1,34 @@
+protein_id,pdb_path,compound_name,cid,smiles,pchembl,center_x,center_y,center_z,size_x,size_y,size_z,notes
+ANDR_HUMAN,/Users/matthew/docking/protein/ANDR_HUMAN.pdb,Estriol,5756,CC12CCC3C(C1CC(C2O)O)CCC4=C3C=CC(=C4)O,9.32,26.78,2.36,4.61,22,22,22,Androgen receptor LBD
+ANDR_HUMAN,/Users/matthew/docking/protein/ANDR_HUMAN.pdb,Eugenol,3314,COC1=C(C=CC(=C1)CC=C)O,4.72,26.78,2.36,4.61,22,22,22,Androgen receptor LBD
+ANDR_HUMAN,/Users/matthew/docking/protein/ANDR_HUMAN.pdb,3-Hydroxyflavone,11349,C1=CC=C(C=C1)C2=C(C(=O)C3=CC=CC=C3O2)O,4.63,26.78,2.36,4.61,22,22,22,Androgen receptor LBD
+ESR1_HUMAN,/Users/matthew/docking/protein/ESR1_HUMAN.pdb,Estriol,5756,CC12CCC3C(C1CC(C2O)O)CCC4=C3C=CC(=C4)O,9.32,-12.83,11.25,-8.94,22,22,22,Estrogen receptor alpha LBD
+ESR1_HUMAN,/Users/matthew/docking/protein/ESR1_HUMAN.pdb,Oestrone,5870,CC12CCC3C(C1CCC2=O)CCC4=C3C=CC(=C4)O,9.15,-12.83,11.25,-8.94,22,22,22,Estrogen receptor alpha LBD
+ESR1_HUMAN,/Users/matthew/docking/protein/ESR1_HUMAN.pdb,Genistein,5280961,C1=CC(=CC=C1C2=COC3=CC(=CC(=C3C2=O)O)O)O,7.32,-12.83,11.25,-8.94,22,22,22,Estrogen receptor alpha LBD
+ESR1_HUMAN,/Users/matthew/docking/protein/ESR1_HUMAN.pdb,Glabranin,124049,CC(=CCC1=C2C(=C(C=C1O)O)C(=O)CC(O2)C3=CC=CC=C3)C,7.24,-12.83,11.25,-8.94,22,22,22,Estrogen receptor alpha LBD
+ESR1_HUMAN,/Users/matthew/docking/protein/ESR1_HUMAN.pdb,Isoglabranin,480763,CC(=CCC1=C(C2=C(C=C1O)OC(CC2=O)C3=CC=CC=C3)O)C,6.4,-12.83,11.25,-8.94,22,22,22,Estrogen receptor alpha LBD
+ESR1_HUMAN,/Users/matthew/docking/protein/ESR1_HUMAN.pdb,Apigenin,5280443,C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,5.9,-12.83,11.25,-8.94,22,22,22,Estrogen receptor alpha LBD
+ESR1_HUMAN,/Users/matthew/docking/protein/ESR1_HUMAN.pdb,Chrysin,5281607,C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,5.9,-12.83,11.25,-8.94,22,22,22,Estrogen receptor alpha LBD
+ESR1_HUMAN,/Users/matthew/docking/protein/ESR1_HUMAN.pdb,Butylparaben,7184,CCCCOC(=O)C1=CC=C(C=C1)O,5.85,-12.83,11.25,-8.94,22,22,22,Estrogen receptor alpha LBD
+ESR1_HUMAN,/Users/matthew/docking/protein/ESR1_HUMAN.pdb,Daidzein,5281708,C1=CC(=CC=C1C2=COC3=C(C2=O)C=CC(=C3)O)O,5.75,-12.83,11.25,-8.94,22,22,22,Estrogen receptor alpha LBD
+ESR1_HUMAN,/Users/matthew/docking/protein/ESR1_HUMAN.pdb,Equol,382975,C1C(COC2=C1C=CC(=C2)O)C3=CC=C(C=C3)O,5.23,-12.83,11.25,-8.94,22,22,22,Estrogen receptor alpha LBD
+ESR1_HUMAN,/Users/matthew/docking/protein/ESR1_HUMAN.pdb,alpha-Zearalenol,5284645,CC1CCCC(CCCC=CC2=C(C(=CC(=C2)O)O)C(=O)O1)O,5.04,-12.83,11.25,-8.94,22,22,22,Estrogen receptor alpha LBD
+HIF1A_HUMAN,/Users/matthew/docking/protein/HIF1A_HUMAN.pdb,Estradiol,5757,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,5.8,-3.0,-11.0,-11.0,22,22,22,HIF-1alpha PAS-B pocket
+HIF1A_HUMAN,/Users/matthew/docking/protein/HIF1A_HUMAN.pdb,Adenosine,60961,C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)O)O)N,5.6,-3.0,-11.0,-11.0,22,22,22,HIF-1alpha PAS-B pocket
+HIF1A_HUMAN,/Users/matthew/docking/protein/HIF1A_HUMAN.pdb,Se-Methylselenocysteine,147004,C[Se]CC(C(=O)O)N,5.3,-3.0,-11.0,-11.0,22,22,22,HIF-1alpha PAS-B pocket
+HIF1A_HUMAN,/Users/matthew/docking/protein/HIF1A_HUMAN.pdb,Hesperetin,72281,COC1=C(C=C(C=C1)C2CC(=O)C3=C(C=C(C=C3O2)O)O)O,5.3,-3.0,-11.0,-11.0,22,22,22,HIF-1alpha PAS-B pocket
+HIF1A_HUMAN,/Users/matthew/docking/protein/HIF1A_HUMAN.pdb,Furaltadone,9553856,C1COCCN1CC2CN(C(=O)O2)N=CC3=CC=C(O3)[N+](=O)[O-],5.2,-3.0,-11.0,-11.0,22,22,22,HIF-1alpha PAS-B pocket
+HIF1A_HUMAN,/Users/matthew/docking/protein/HIF1A_HUMAN.pdb,L-Glutamine,5961,C(CC(=O)N)C(C(=O)O)N,5.0,-3.0,-11.0,-11.0,22,22,22,HIF-1alpha PAS-B pocket
+HIF1A_HUMAN,/Users/matthew/docking/protein/HIF1A_HUMAN.pdb,Piperlongumine,637858,COC1=CC(=CC(=C1OC)OC)C=CC(=O)N2CCC=CC2=O,5.0,-3.0,-11.0,-11.0,22,22,22,HIF-1alpha PAS-B pocket
+HIF1A_HUMAN,/Users/matthew/docking/protein/HIF1A_HUMAN.pdb,L-Tryptophan,6305,C1=CC=C2C(=C1)C(=CN2)CC(C(=O)O)N,4.9,-3.0,-11.0,-11.0,22,22,22,HIF-1alpha PAS-B pocket
+NFKB1_HUMAN,/Users/matthew/docking/protein/NFKB1_HUMAN.pdb,Withanolide,53477765,CC1=C(C(=O)OC(C1)C(C)(C2CCC3C2(CCC4C3CC5C6(C4(C(=O)C=CC6O)C)O5)C)O)C,7.44,-1.96,14.65,-30.24,22,22,22,NF-kB p50 DNA binding domain
+NFKB1_HUMAN,/Users/matthew/docking/protein/NFKB1_HUMAN.pdb,Gibberellin A3,6466,CC12C(C=CC3(C1C(C45C3CCC(C4)(C(=C)C5)O)C(=O)O)OC2=O)O,6.67,-1.96,14.65,-30.24,22,22,22,NF-kB p50 DNA binding domain
+NFKB1_HUMAN,/Users/matthew/docking/protein/NFKB1_HUMAN.pdb,Agmatine,199,C(CCN=C(N)N)CN,6.45,-1.96,14.65,-30.24,22,22,22,NF-kB p50 DNA binding domain
+NFKB1_HUMAN,/Users/matthew/docking/protein/NFKB1_HUMAN.pdb,Prunetin,5281804,COC1=CC(=C2C(=C1)OC=C(C2=O)C3=CC=C(C=C3)O)O,5.76,-1.96,14.65,-30.24,22,22,22,NF-kB p50 DNA binding domain
+NFKB1_HUMAN,/Users/matthew/docking/protein/NFKB1_HUMAN.pdb,Biochanin A,5280373,COC1=CC=C(C=C1)C2=COC3=CC(=CC(=C3C2=O)O)O,5.76,-1.96,14.65,-30.24,22,22,22,NF-kB p50 DNA binding domain
+NFKB1_HUMAN,/Users/matthew/docking/protein/NFKB1_HUMAN.pdb,Isoliquiritigenin,638278,C1=CC(=CC=C1C=CC(=O)C2=C(C=C(C=C2)O)O)O,5.5,-1.96,14.65,-30.24,22,22,22,NF-kB p50 DNA binding domain
+NFKB1_HUMAN,/Users/matthew/docking/protein/NFKB1_HUMAN.pdb,2-Hydroxycinnamic acid,637540,C1=CC=C(C(=C1)C=CC(=O)O)O,5.38,-1.96,14.65,-30.24,22,22,22,NF-kB p50 DNA binding domain
+NFKB1_HUMAN,/Users/matthew/docking/protein/NFKB1_HUMAN.pdb,Se-Methylselenocysteine,147004,C[Se]CC(C(=O)O)N,5.3,-1.96,14.65,-30.24,22,22,22,NF-kB p50 DNA binding domain
+NFKB1_HUMAN,/Users/matthew/docking/protein/NFKB1_HUMAN.pdb,5-Aminopentanoic acid,138,C(CCN)CC(=O)O,5.05,-1.96,14.65,-30.24,22,22,22,NF-kB p50 DNA binding domain
+NFKB1_HUMAN,/Users/matthew/docking/protein/NFKB1_HUMAN.pdb,Tryptamine,1150,C1=CC=C2C(=C1)C(=CN2)CCN,4.9,-1.96,14.65,-30.24,22,22,22,NF-kB p50 DNA binding domain
+NFKB1_HUMAN,/Users/matthew/docking/protein/NFKB1_HUMAN.pdb,Homobutein,6438092,COC1=C(C=CC(=C1)C=CC(=O)C2=C(C=C(C=C2)O)O)O,4.42,-1.96,14.65,-30.24,22,22,22,NF-kB p50 DNA binding domain

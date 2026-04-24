@@ -1,0 +1,32 @@
+protein_id,compound_name,pchembl,affinity_kcal_mol,poses_file
+ESR1_HUMAN,Oestrone,9.15,-9.464,/Users/matthew/docking/results/ESR1_HUMAN_Oestrone_poses.pdbqt
+ESR1_HUMAN,Equol,5.23,-8.36,/Users/matthew/docking/results/ESR1_HUMAN_Equol_poses.pdbqt
+ESR1_HUMAN,Estriol,9.32,-8.157,/Users/matthew/docking/results/ESR1_HUMAN_Estriol_poses.pdbqt
+ESR1_HUMAN,Chrysin,5.9,-7.977,/Users/matthew/docking/results/ESR1_HUMAN_Chrysin_poses.pdbqt
+NFKB1_HUMAN,Withanolide,7.44,-7.68,/Users/matthew/docking/results/NFKB1_HUMAN_Withanolide_poses.pdbqt
+ESR1_HUMAN,Daidzein,5.75,-7.482,/Users/matthew/docking/results/ESR1_HUMAN_Daidzein_poses.pdbqt
+ESR1_HUMAN,Genistein,7.32,-7.415,/Users/matthew/docking/results/ESR1_HUMAN_Genistein_poses.pdbqt
+HIF1A_HUMAN,Estradiol,5.8,-7.393,/Users/matthew/docking/results/HIF1A_HUMAN_Estradiol_poses.pdbqt
+ESR1_HUMAN,Glabranin,7.24,-7.338,/Users/matthew/docking/results/ESR1_HUMAN_Glabranin_poses.pdbqt
+ESR1_HUMAN,Apigenin,5.9,-7.13,/Users/matthew/docking/results/ESR1_HUMAN_Apigenin_poses.pdbqt
+ANDR_HUMAN,Estriol,9.32,-6.639,/Users/matthew/docking/results/ANDR_HUMAN_Estriol_poses.pdbqt
+HIF1A_HUMAN,Hesperetin,5.3,-6.29,/Users/matthew/docking/results/HIF1A_HUMAN_Hesperetin_poses.pdbqt
+NFKB1_HUMAN,Gibberellin A3,6.67,-6.146,/Users/matthew/docking/results/NFKB1_HUMAN_Gibberellin_A3_poses.pdbqt
+ESR1_HUMAN,Butylparaben,5.85,-6.138,/Users/matthew/docking/results/ESR1_HUMAN_Butylparaben_poses.pdbqt
+HIF1A_HUMAN,Piperlongumine,5.0,-6.034,/Users/matthew/docking/results/HIF1A_HUMAN_Piperlongumine_poses.pdbqt
+ESR1_HUMAN,alpha-Zearalenol,5.04,-6.031,/Users/matthew/docking/results/ESR1_HUMAN_alpha_Zearalenol_poses.pdbqt
+NFKB1_HUMAN,Isoliquiritigenin,5.5,-5.964,/Users/matthew/docking/results/NFKB1_HUMAN_Isoliquiritigenin_poses.pdbqt
+ANDR_HUMAN,3-Hydroxyflavone,4.63,-5.837,/Users/matthew/docking/results/ANDR_HUMAN_3_Hydroxyflavone_poses.pdbqt
+HIF1A_HUMAN,L-Tryptophan,4.9,-5.728,/Users/matthew/docking/results/HIF1A_HUMAN_L_Tryptophan_poses.pdbqt
+NFKB1_HUMAN,Biochanin A,5.76,-5.67,/Users/matthew/docking/results/NFKB1_HUMAN_Biochanin_A_poses.pdbqt
+NFKB1_HUMAN,Homobutein,4.42,-5.598,/Users/matthew/docking/results/NFKB1_HUMAN_Homobutein_poses.pdbqt
+HIF1A_HUMAN,Furaltadone,5.2,-5.545,/Users/matthew/docking/results/HIF1A_HUMAN_Furaltadone_poses.pdbqt
+NFKB1_HUMAN,Prunetin,5.76,-5.521,/Users/matthew/docking/results/NFKB1_HUMAN_Prunetin_poses.pdbqt
+HIF1A_HUMAN,Adenosine,5.6,-5.219,/Users/matthew/docking/results/HIF1A_HUMAN_Adenosine_poses.pdbqt
+NFKB1_HUMAN,2-Hydroxycinnamic acid,5.38,-4.946,/Users/matthew/docking/results/NFKB1_HUMAN_2_Hydroxycinnamic_acid_poses.pdbqt
+NFKB1_HUMAN,Tryptamine,4.9,-4.792,/Users/matthew/docking/results/NFKB1_HUMAN_Tryptamine_poses.pdbqt
+ANDR_HUMAN,Eugenol,4.72,-4.473,/Users/matthew/docking/results/ANDR_HUMAN_Eugenol_poses.pdbqt
+NFKB1_HUMAN,Agmatine,6.45,-4.236,/Users/matthew/docking/results/NFKB1_HUMAN_Agmatine_poses.pdbqt
+NFKB1_HUMAN,5-Aminopentanoic acid,5.05,-4.034,/Users/matthew/docking/results/NFKB1_HUMAN_5_Aminopentanoic_acid_poses.pdbqt
+HIF1A_HUMAN,L-Glutamine,5.0,-3.933,/Users/matthew/docking/results/HIF1A_HUMAN_L_Glutamine_poses.pdbqt
+ESR1_HUMAN,Isoglabranin,6.4,-2.419,/Users/matthew/docking/results/ESR1_HUMAN_Isoglabranin_poses.pdbqt
