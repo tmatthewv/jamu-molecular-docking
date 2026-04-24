@@ -224,5 +224,5 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 ## Contact
 
-For questions regarding the computational pipeline, please open a GitHub Issue or contact:
 Matthew Valentino Tambunan — tambunan.matthewv@gmail.com
+Department of Pharmacy, Faculty of Mathematics and Natural Sciences, Udayana University, Bali, Indonesia
