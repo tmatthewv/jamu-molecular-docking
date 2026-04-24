@@ -1,0 +1,15 @@
+name: docking
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.13
+  - rdkit
+  - numpy
+  - pandas
+  - scipy
+  - pip
+  - pip:
+    - meeko>=0.5.0
+    - requests>=2.31.0
+    - gemmi>=0.6.0
