@@ -1,0 +1,58 @@
+# ============================================================
+# 01_protein_prep.cxc
+# ChimeraX protein preparation script for all 4 target proteins
+#
+# Usage (ChimeraX command bar):
+#   open /path/to/scripts/01_protein_prep.cxc
+#
+# Or headless:
+#   chimerax --nogui --script 01_protein_prep.cxc
+#
+# Requirements: UCSF ChimeraX 1.11+
+# ============================================================
+
+# ── ANDR_HUMAN (Androgen Receptor, UniProt: P10275) ─────────
+open ../protein/ANDR_HUMAN.pdb
+delete @@bfactor<70
+delete solvent
+delete :HOH,WAT,H2O
+delete ligand
+addh hbond true
+addcharge method am1-bcc
+save ../results/ANDR_HUMAN_prepped.pdb
+close #1
+
+# ── ESR1_HUMAN (Estrogen Receptor Alpha, UniProt: P03372) ───
+open ../protein/ESR1_HUMAN.pdb
+delete @@bfactor<70
+delete solvent
+delete :HOH,WAT,H2O
+delete ligand
+addh hbond true
+addcharge method am1-bcc
+save ../results/ESR1_HUMAN_prepped.pdb
+close #1
+
+# ── HIF1A_HUMAN (HIF-1alpha, UniProt: Q16665) ───────────────
+open ../protein/HIF1A_HUMAN.pdb
+delete @@bfactor<70
+delete solvent
+delete :HOH,WAT,H2O
+delete ligand
+addh hbond true
+addcharge method am1-bcc
+save ../results/HIF1A_HUMAN_prepped.pdb
+close #1
+
+# ── NFKB1_HUMAN (NF-kB p50, UniProt: P19838) ────────────────
+open ../protein/NFKB1_HUMAN.pdb
+delete @@bfactor<70
+delete solvent
+delete :HOH,WAT,H2O
+delete ligand
+addh hbond true
+addcharge method am1-bcc
+save ../results/NFKB1_HUMAN_prepped.pdb
+close #1
+
+stop
